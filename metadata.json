@@ -1,0 +1,6 @@
+{
+  "name": "Happy Auto AI ERP",
+  "description": "A cloud-based ERP for Auto Parts Shops, Service Centers, and Garages with AI Assistant, POS Billing, GST Invoice, Inventory Management, and Job Cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
